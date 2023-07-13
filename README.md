@@ -16,7 +16,7 @@
 
 # Solution ..
 * Easily know Any Laptops Approximate Price
-* Here User Easily Compare Price with different Comany Name And Laptop Specification
+* Easily Compare Price with different Comany Name And Laptop Specification
 
 # How to Use
 When User Enter his Dream Laptop Specifications : 
