@@ -1,5 +1,5 @@
 # Laptop_Price Prediction
-
+* The Project laptop price Prediction Based on Various Features: 
 
 # Why ?
 Costomer unable to compare Laptop Price on Basis of Company name RAM, SSD, HDD, Processor
@@ -13,7 +13,7 @@ Costomer unable to compare Laptop Price on Basis of Company name RAM, SSD, HDD, 
 * Easily Comare Price Basis of Comany Name And Laptop Specification
 
 # How to Use
-The Project laptop price Prediction Based on Various Features: 
+Enter your Dream Laptop Specifications : 
     
     1. Brand Name
     2. Processor Name
