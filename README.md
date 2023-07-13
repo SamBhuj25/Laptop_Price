@@ -1,5 +1,15 @@
 # Laptop_Price Prediction
-* Project is about laptop price Prediction Based on Various Features: 
+* Project is about laptop price Prediction Based on Various Features:
+    1. Brand Name
+    2. Processor Name
+    3. Generation
+    4. OS
+    5. Hard Disk
+    6. RAM
+    7. SSD
+    8. Touchscreen
+    9. Graphic Card
+    10. Processor Brand
 
 # Why ?
 * Costomer unable to Compare All Brand Laptops at a time
@@ -31,6 +41,7 @@ When User Enter his Dream Laptop Specifications :
     8. Touchscreen
     9. Graphic Card
     10. Processor Brand
+    
 He will get The Approximate Price for that Laptop
     
 # Requirements 
