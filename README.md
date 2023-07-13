@@ -2,11 +2,11 @@
 * Project is about laptop price Prediction Based on Various Features: 
 
 # Why ?
-* Costomer unable to select Best Laptop  
-* even if costomer go to any branch there like HP , DELL
+* Costomer unable to Compare All Brand Laptops at a time
+* even costomer go to any branch like HP , DELL
   there he able to compare only DELL Company Laptop with diff. Specification
-** So Here Costomer able to compare Laptop Price on Basis different Company names
-   and Specification
+* So Here Costomer able to compare Laptop Price on Basis different Company names
+  and Specification
 
 
 # For Whom ?
