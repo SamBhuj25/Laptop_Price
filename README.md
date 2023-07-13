@@ -15,6 +15,7 @@
 * Here user can understand Which Factors affect the Laptop Price.
 
 # Solution ..
+* Easily know Any Laptops Approximate Price
 * Here User Easily Compare Price with different Comany Name And Laptop Specification
 
 # How to Use
