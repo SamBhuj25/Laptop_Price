@@ -1,0 +1,824 @@
+,brand,processor_brand,processor_name,processor_gnrtn,ram_gb,ssd,hdd,os,os_bit,graphic_card_gb,Touchscreen,msoffice,Price
+0,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,34649
+1,Lenovo,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,38999
+2,Lenovo,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,39999
+3,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,32-bit,2 GB,No,No,69990
+4,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,26990
+5,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,22990
+6,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,21990
+7,ASUS,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,32-bit,2 GB,No,No,58799
+8,Lenovo,Intel,Core i5,10th,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,49999
+9,acer,AMD,Ryzen 5,10th,4 GB,0 GB,512 GB,Windows,32-bit,4 GB,No,No,59990
+10,acer,AMD,Ryzen 5,10th,4 GB,0 GB,512 GB,Windows,32-bit,6 GB,No,No,93700
+11,acer,AMD,Ryzen 5,10th,4 GB,0 GB,512 GB,Windows,32-bit,4 GB,No,No,72990
+12,Avita,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,17490
+13,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,22990
+14,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,35990
+15,HP,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,No,56490
+16,HP,Intel,Core i5,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,65390
+17,Lenovo,Intel,Celeron Dual,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,31999
+18,HP,Intel,Celeron Dual,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,32490
+19,Lenovo,Intel,Celeron Dual,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,31799
+20,ASUS,Intel,Celeron Dual,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,29890
+21,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,23990
+22,HP,Intel,Core i3,7th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,32955
+23,HP,Intel,Core i5,7th,4 GB,0 GB,1024 GB,Windows,32-bit,2 GB,No,No,46200
+24,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,34429
+25,Lenovo,Intel,Core i3,10th,8 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,Yes,37990
+26,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,Yes,35990
+27,ASUS,Intel,Core i3,10th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,33980
+28,HP,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,39990
+29,DELL,Intel,Core i3,10th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,39490
+30,HP,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,53990
+31,acer,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,38990
+32,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,37990
+33,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,37890
+34,Lenovo,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,38990
+35,Lenovo,Intel,Core i3,10th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,37990
+36,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41990
+37,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,45990
+38,Lenovo,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,39990
+39,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,42490
+40,DELL,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,36990
+41,Lenovo,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,53990
+42,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,36990
+43,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,38940
+44,DELL,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,39490
+45,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,45990
+46,Lenovo,Intel,Core i3,10th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,39999
+47,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,42990
+48,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,No,49990
+49,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41490
+50,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,41990
+51,Lenovo,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41990
+52,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,38490
+53,Lenovo,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,38990
+54,Lenovo,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44990
+55,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,36490
+56,Lenovo,Intel,Core i3,10th,8 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,38970
+57,HP,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44900
+58,MSI,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,38990
+59,DELL,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,44427
+60,ASUS,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,35990
+61,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,40200
+62,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,40990
+63,DELL,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,42490
+64,acer,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,23990
+65,DELL,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,No,71999
+66,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,39990
+67,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41998
+68,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,41990
+69,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,39999
+70,ASUS,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,39990
+71,Lenovo,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,39998
+72,HP,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,42490
+73,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,41990
+74,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,48490
+75,HP,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44376
+76,DELL,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,43900
+77,DELL,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,46690
+78,Lenovo,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,32-bit,0 GB,No,No,40990
+79,DELL,Intel,Core i3,10th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,39990
+80,Lenovo,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,43990
+81,ASUS,Intel,Core i3,11th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,36990
+82,DELL,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,48500
+83,ASUS,Intel,Core i3,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,48990
+84,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,23490
+85,HP,Intel,Core i3,8th,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,54238
+86,ASUS,Intel,Core i3,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,37990
+87,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,42990
+88,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,42990
+89,ASUS,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,35990
+90,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,42990
+91,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,Yes,Yes,51990
+92,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,48990
+93,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,42990
+94,Lenovo,Intel,Core i3,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,38990
+95,DELL,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,45990
+96,HP,Intel,Core i3,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,42490
+97,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,43970
+98,ASUS,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,39990
+99,MSI,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,48990
+100,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,54990
+101,MSI,Intel,Core i3,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,40990
+102,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41990
+103,Lenovo,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,54990
+104,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44990
+105,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,41250
+106,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,44990
+107,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,42990
+108,DELL,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,60790
+109,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,45650
+110,DELL,Intel,Core i3,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41990
+111,DELL,Intel,Core i3,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,45490
+112,ASUS,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44990
+113,Lenovo,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,42990
+114,HP,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,45490
+115,HP,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,38799
+116,HP,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,69267
+117,ASUS,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,51649
+118,HP,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,47990
+119,ASUS,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,40990
+120,ASUS,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,42990
+121,ASUS,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,44890
+122,ASUS,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,41490
+123,HP,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,50990
+124,HP,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,48900
+125,ASUS,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,40990
+126,DELL,Intel,Core i3,10th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,41790
+127,Lenovo,Intel,Core i3,11th,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,57999
+128,DELL,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,45930
+129,HP,Intel,Core i3,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,55490
+130,ASUS,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,32890
+131,Lenovo,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,35990
+132,DELL,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,42490
+133,DELL,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,42190
+134,DELL,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,39490
+135,HP,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,43690
+136,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,35990
+137,DELL,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,43800
+138,Lenovo,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,38990
+139,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,34990
+140,ASUS,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,38900
+141,DELL,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,39990
+142,DELL,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,40890
+143,Lenovo,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,36990
+144,HP,Intel,Core i3,11th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,39990
+145,HP,Intel,Core i3,11th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,41990
+146,DELL,Intel,Core i3,11th,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,43970
+147,HP,Intel,Core i3,11th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,39790
+148,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,35590
+149,HP,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,36490
+150,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,38990
+151,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,33990
+152,DELL,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,43400
+153,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,24990
+154,HP,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,40750
+155,DELL,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,43000
+156,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,38000
+157,DELL,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,37990
+158,HP,Intel,Core i3,7th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,No,49279
+159,Lenovo,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,38999
+160,ASUS,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,41500
+161,acer,Intel,Core i3,11th,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,36999
+162,DELL,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,42900
+163,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,21490
+164,DELL,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,41480
+165,ASUS,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,32990
+166,ASUS,Intel,Core i3,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,38680
+167,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,23990
+168,DELL,Intel,Core i3,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,40390
+169,ASUS,Intel,Core i3,10th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,33990
+170,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,20490
+171,DELL,Intel,Core i3,10th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,41490
+172,DELL,Intel,Core i3,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,45490
+173,DELL,Intel,Core i3,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,44490
+174,ASUS,Intel,Core i3,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,41890
+175,DELL,Intel,Core i3,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,42990
+176,acer,Intel,Core i3,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,40990
+177,DELL,Intel,Core i3,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,48990
+178,DELL,Intel,Core i3,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,43590
+179,DELL,Intel,Core i3,10th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,44690
+180,ASUS,Intel,Core i3,10th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,40990
+181,DELL,Intel,Core i3,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,43990
+182,DELL,Intel,Core i3,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,43590
+183,DELL,Intel,Core i3,10th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,41390
+184,DELL,Intel,Core i3,10th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,44290
+185,DELL,Intel,Core i3,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,48999
+186,DELL,Intel,Core i3,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,39990
+187,DELL,Intel,Core i3,10th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,46390
+188,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,18990
+189,ASUS,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,17990
+190,HP,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,26470
+191,HP,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,27990
+192,Lenovo,Intel,Celeron Dual,Not Available,4 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,29999
+193,Lenovo,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,25990
+194,Lenovo,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,16990
+195,Lenovo,Intel,Celeron Dual,Not Available,4 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,24990
+196,acer,Intel,Core i5,Not Available,8 GB,0 GB,512 GB,Windows,32-bit,4 GB,No,No,50990
+197,acer,Intel,Core i5,Not Available,8 GB,0 GB,512 GB,Windows,32-bit,0 GB,No,No,119990
+198,acer,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,0 GB,No,No,94190
+199,ASUS,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,4 GB,No,No,106167
+200,DELL,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,4 GB,No,No,68090
+201,DELL,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,0 GB,No,No,139990
+202,HP,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,0 GB,No,No,55990
+203,HP,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,4 GB,No,No,102551
+204,Lenovo,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,2 GB,No,No,46990
+205,HP,Intel,Core i5,8th,8 GB,128 GB,0 GB,Windows,64-bit,0 GB,No,No,76012
+206,Lenovo,Intel,Core i5,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,49490
+207,acer,Intel,Core i5,7th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,86867
+208,ASUS,Intel,Core i5,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,48990
+209,DELL,Intel,Core i5,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,55990
+210,acer,Intel,Core i5,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,81998
+211,HP,Intel,Core i5,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,136590
+212,acer,Intel,Core i5,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,59490
+213,ASUS,Intel,Core i5,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,49800
+214,Lenovo,Intel,Core i5,11th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,61999
+215,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,54990
+216,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,53990
+217,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,52990
+218,HP,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,67990
+219,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,57990
+220,Lenovo,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,62300
+221,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,52990
+222,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,51990
+223,Lenovo,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,61990
+224,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,Yes,Yes,63990
+225,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,65990
+226,acer,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,52990
+227,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,49990
+228,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,71990
+229,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,47990
+230,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,Yes,48490
+231,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,72990
+232,MSI,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,76990
+233,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,6 GB,No,Yes,89990
+234,MSI,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,59990
+235,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,65990
+236,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,71990
+237,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,71890
+238,Lenovo,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,64990
+239,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,65990
+240,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,55999
+241,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,73490
+242,HP,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,74490
+243,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,58340
+244,acer,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,55999
+245,DELL,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,67990
+246,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59990
+247,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,6 GB,No,Yes,82990
+248,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,64190
+249,DELL,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,70090
+250,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,49990
+251,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,55490
+252,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,97990
+253,ASUS,Intel,Core i5,9th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,54990
+254,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,59990
+255,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,53990
+256,HP,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,66999
+257,acer,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,60990
+258,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,47990
+259,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,Yes,59999
+260,DELL,Intel,Core i5,10th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,79990
+261,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,63990
+262,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,63990
+263,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59990
+264,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,55990
+265,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59990
+266,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,63990
+267,DELL,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,69490
+268,DELL,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,89390
+269,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,74990
+270,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,64990
+271,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,66490
+272,DELL,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,89702
+273,Lenovo,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,70990
+274,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,58990
+275,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,57500
+276,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,Yes,79990
+277,MSI,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,56541
+278,ASUS,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59990
+279,Lenovo,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,64990
+280,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,61290
+281,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,54990
+282,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,59990
+283,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,6 GB,No,No,84990
+284,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,72500
+285,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,59990
+286,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,87990
+287,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,57990
+288,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,69490
+289,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,68990
+290,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,Yes,77990
+291,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,105990
+292,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,79990
+293,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,55490
+294,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,69990
+295,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,84990
+296,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59990
+297,DELL,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,111890
+298,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,65990
+299,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,Yes,72990
+300,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,71090
+301,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,74990
+302,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,79990
+303,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,55490
+304,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,66490
+305,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,53400
+306,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,74500
+307,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,114990
+308,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,61990
+309,APPLE,Intel,Core i5,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,159990
+310,APPLE,Intel,Core i5,8th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,172090
+311,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,74990
+312,MSI,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,56490
+313,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,147000
+314,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,55990
+315,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,77990
+316,HP,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,106490
+317,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,2 GB,No,Yes,70990
+318,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,64990
+319,acer,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,57990
+320,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,64990
+321,MSI,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,54990
+322,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,111999
+323,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,70798
+324,Lenovo,Intel,Core i5,9th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,59990
+325,acer,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,99500
+326,HP,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,55990
+327,ASUS,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,72990
+328,acer,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,64990
+329,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,57990
+330,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,Yes,76990
+331,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,62998
+332,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,77990
+333,HP,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,114990
+334,DELL,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,65990
+335,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,88990
+336,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,113590
+337,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,73990
+338,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,61000
+339,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,99990
+340,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,67990
+341,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,70799
+342,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,65990
+343,ASUS,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,53690
+344,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,55990
+345,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,53190
+346,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,32-bit,2 GB,No,Yes,58999
+347,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,71990
+348,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,No,82000
+349,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,84990
+350,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,89998
+351,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,99990
+352,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,84990
+353,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,69899
+354,DELL,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,79990
+355,DELL,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,76300
+356,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,55999
+357,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,72900
+358,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,73990
+359,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,84990
+360,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,2 GB,No,No,73519
+361,HP,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,126000
+362,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,6 GB,No,No,88990
+363,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,114999
+364,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,Yes,82990
+365,acer,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,109999
+366,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,82990
+367,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,Yes,79990
+368,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,114990
+369,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,129999
+370,MSI,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,32-bit,6 GB,No,No,149990
+371,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,71290
+372,DELL,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,79500
+373,DELL,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,82990
+374,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,70980
+375,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,99990
+376,HP,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,94000
+377,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,No,82990
+378,MSI,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,79990
+379,ASUS,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,85990
+380,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,86990
+381,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,105990
+382,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,84990
+383,Lenovo,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,59999
+384,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,91999
+385,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,78900
+386,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,132790
+387,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,60990
+388,Avita,Intel,Core i5,7th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,65556
+389,DELL,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,70190
+390,DELL,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,No,79590
+391,Avita,Intel,Core i5,7th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,65556
+392,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,76990
+393,Avita,Intel,Core i5,7th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,65556
+394,Avita,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,44990
+395,ASUS,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,84990
+396,Lenovo,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,2 GB,Yes,Yes,86999
+397,HP,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,78000
+398,Avita,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,73063
+399,Avita,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,73063
+400,HP,Intel,Core i5,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,100990
+401,Lenovo,Intel,Core i5,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,74990
+402,ASUS,Intel,Core i5,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,75990
+403,Lenovo,Intel,Core i5,11th,8 GB,512 GB,0 GB,Windows,32-bit,2 GB,No,Yes,84086
+404,ASUS,Intel,Core i5,11th,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,75990
+405,ASUS,Intel,Core i5,11th,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,Yes,77990
+406,ASUS,Intel,Core i5,10th,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,77990
+407,APPLE,Intel,Core i5,10th,16 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,179990
+408,APPLE,Intel,Core i5,10th,16 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,179990
+409,ASUS,Intel,Core i5,10th,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,82990
+410,ASUS,Intel,Core i5,11th,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,87990
+411,ASUS,Intel,Core i5,11th,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,84500
+412,DELL,Intel,Core i5,11th,8 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,74190
+413,Lenovo,Intel,Core i5,11th,8 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,64990
+414,Lenovo,Intel,Core i5,10th,8 GB,512 GB,512 GB,Windows,64-bit,0 GB,Yes,No,155411
+415,Lenovo,Intel,Core i5,10th,8 GB,512 GB,512 GB,Windows,64-bit,0 GB,Yes,No,125394
+416,acer,Intel,Core i5,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,49990
+417,acer,Intel,Core i5,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,46990
+418,DELL,Intel,Core i5,11th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,48990
+419,acer,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,Yes,59999
+420,ASUS,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,46990
+421,MSI,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,64-bit,4 GB,No,No,52990
+422,Lenovo,Intel,Core i5,7th,8 GB,0 GB,1024 GB,Windows,32-bit,2 GB,No,No,57999
+423,Lenovo,Intel,Core i5,4th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,52490
+424,Lenovo,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,4 GB,No,No,56990
+425,acer,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,No,61990
+426,DELL,Intel,Core i5,11th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,58090
+427,ASUS,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,56990
+428,acer,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,61597
+429,ASUS,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,81990
+430,ASUS,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,61249
+431,DELL,Intel,Core i5,11th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,No,58990
+432,ASUS,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,No,83990
+433,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,6 GB,No,No,291190
+434,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,6 GB,No,No,145990
+435,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,8 GB,No,No,179990
+436,HP,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,Yes,64990
+437,HP,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,46790
+438,HP,Intel,Core i5,7th,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,44599
+439,acer,Intel,Core i5,8th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,No,72964
+440,HP,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,32-bit,0 GB,No,Yes,48790
+441,acer,Intel,Core i5,10th,8 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,No,56491
+442,ASUS,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,32-bit,0 GB,No,Yes,50990
+443,ASUS,Intel,Core i5,10th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,55990
+444,acer,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,57990
+445,ASUS,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,52990
+446,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,57990
+447,acer,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,56990
+448,acer,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,55490
+449,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,No,62490
+450,ASUS,Intel,Core i5,11th,16 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,64990
+451,Lenovo,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,Yes,59990
+452,ASUS,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,Yes,60190
+453,ASUS,Intel,Core i5,9th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,54490
+454,Lenovo,Intel,Core i5,9th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,Yes,60990
+455,DELL,Intel,Core i5,11th,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,55790
+456,ASUS,Intel,Core i5,11th,16 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,64990
+457,ASUS,Intel,Core i5,11th,16 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,58990
+458,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,54990
+459,HP,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,Yes,71990
+460,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,No,69900
+461,Lenovo,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,Yes,65990
+462,ASUS,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,49990
+463,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,58990
+464,Lenovo,Intel,Core i5,10th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,74590
+465,ASUS,Intel,Core i5,10th,8 GB,256 GB,1024 GB,Windows,32-bit,2 GB,No,No,58990
+466,ASUS,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,64990
+467,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,No,66490
+468,DELL,Intel,Core i5,10th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,77900
+469,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,No,67490
+470,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,61990
+471,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,58990
+472,Lenovo,Intel,Core i5,10th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,74999
+473,ASUS,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,68900
+474,DELL,Intel,Core i5,11th,8 GB,256 GB,1024 GB,Windows,64-bit,2 GB,No,No,71695
+475,acer,Intel,Core i5,11th,16 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,62490
+476,DELL,Intel,Core i5,8th,8 GB,0 GB,2048 GB,Windows,64-bit,2 GB,No,Yes,62317
+477,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,8 GB,No,No,207290
+478,DELL,Intel,Core i7,8th,16 GB,256 GB,0 GB,Windows,64-bit,4 GB,No,Yes,87990
+479,Avita,Intel,Core i7,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,73990
+480,Avita,Intel,Core i7,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,73990
+481,Avita,Intel,Core i7,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,73990
+482,Avita,Intel,Core i7,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,73990
+483,Avita,Intel,Core i7,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,73990
+484,Avita,Intel,Core i7,8th,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,73990
+485,ASUS,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,57990
+486,ASUS,Intel,Core i7,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,61990
+487,MSI,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,79990
+488,Lenovo,Intel,Core i7,10th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,68990
+489,Lenovo,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,85990
+490,Lenovo,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,99990
+491,ASUS,Intel,Core i7,11th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,77990
+492,Lenovo,Intel,Core i7,11th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,79990
+493,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,93190
+494,ASUS,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,94990
+495,Lenovo,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,84990
+496,MSI,Intel,Core i7,10th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,57990
+497,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,102990
+498,DELL,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,99990
+499,ASUS,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,94990
+500,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,104000
+501,MSI,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,76990
+502,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,90190
+503,Lenovo,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,32-bit,0 GB,Yes,No,88488
+504,MSI,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,109990
+505,MSI,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,86990
+506,MSI,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,89990
+507,HP,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,239759
+508,ASUS,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,78990
+509,DELL,Intel,Core i7,8th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,121890
+510,ASUS,Intel,Core i7,8th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,85990
+511,MSI,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,94990
+512,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,92000
+513,HP,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,162990
+514,DELL,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,135300
+515,MSI,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,64990
+516,Lenovo,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,174527
+517,Lenovo,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,162299
+518,DELL,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,109190
+519,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,99999
+520,MSI,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,104990
+521,ASUS,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,109990
+522,ASUS,Intel,Core i7,8th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,99990
+523,Lenovo,Intel,Core i7,8th,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,No,244801
+524,ASUS,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,94990
+525,Lenovo,Intel,Core i7,8th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,86000
+526,Lenovo,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,32-bit,2 GB,No,No,162399
+527,HP,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,119599
+528,Lenovo,Intel,Core i7,10th,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,211753
+529,Lenovo,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,110999
+530,DELL,Intel,Core i7,11th,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,99990
+531,ASUS,Intel,Core i7,8th,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,81990
+532,MSI,Intel,Core i7,9th,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,66990
+533,MSI,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,84990
+534,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,2 GB,Yes,Yes,104990
+535,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,134990
+536,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,98990
+537,HP,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,Yes,144690
+538,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,99990
+539,MSI,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,119990
+540,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,32-bit,4 GB,No,No,194990
+541,ASUS,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,2 GB,No,Yes,124990
+542,DELL,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,2 GB,No,No,122410
+543,HP,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,179990
+544,MSI,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,No,154990
+545,Lenovo,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,122990
+546,ASUS,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,Yes,No,224990
+547,MSI,Intel,Core i7,12th,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,No,279990
+548,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,121990
+549,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,116990
+550,Lenovo,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,151098
+551,MSI,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,No,129990
+552,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,149999
+553,MSI,Intel,Core i7,12th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,139990
+554,acer,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,129990
+555,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,Yes,171990
+556,DELL,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,2 GB,No,Yes,93955
+557,ASUS,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,No,234990
+558,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,128500
+559,Lenovo,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,102990
+560,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,119990
+561,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,32-bit,6 GB,No,No,120980
+562,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,32-bit,6 GB,No,No,157249
+563,Lenovo,Intel,Core i7,9th,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,229900
+564,ASUS,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,131500
+565,ASUS,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,154990
+566,ASUS,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,165990
+567,Lenovo,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,119990
+568,ASUS,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,167990
+569,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,165000
+570,Avita,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,62990
+571,Lenovo,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,85990
+572,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,2 GB,No,Yes,94990
+573,HP,Intel,Core i7,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,Yes,136990
+574,Lenovo,Intel,Core i7,10th,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,Yes,234990
+575,acer,Intel,Core i7,10th,16 GB,2048 GB,0 GB,Windows,64-bit,8 GB,No,No,159990
+576,ASUS,Intel,Core i7,10th,16 GB,2048 GB,0 GB,Windows,64-bit,0 GB,No,No,233990
+577,ASUS,Intel,Core i7,10th,16 GB,0 GB,1024 GB,Windows,64-bit,2 GB,No,No,93990
+578,HP,Intel,Core i7,8th,16 GB,128 GB,1024 GB,Windows,64-bit,4 GB,No,No,116941
+579,MSI,Intel,Core i7,10th,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,63990
+580,ASUS,Intel,Core i7,10th,16 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,66990
+581,ASUS,Intel,Core i7,11th,16 GB,256 GB,1024 GB,Windows,32-bit,0 GB,No,No,82500
+582,acer,Intel,Core i7,10th,16 GB,256 GB,1024 GB,Windows,64-bit,6 GB,No,No,119990
+583,MSI,Intel,Core i7,10th,16 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,159990
+584,ASUS,Intel,Core i7,8th,16 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,98912
+585,acer,Intel,Core i7,11th,16 GB,512 GB,1024 GB,Windows,64-bit,4 GB,No,No,92990
+586,acer,Intel,Core i7,11th,16 GB,512 GB,1024 GB,Windows,32-bit,6 GB,No,No,119990
+587,acer,Intel,Core i9,11th,32 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,No,169990
+588,acer,Intel,Core i9,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,139990
+589,MSI,Intel,Core i9,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,192990
+590,ASUS,Intel,Core i9,12th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,299990
+591,ASUS,Intel,Core i9,10th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,Yes,No,269990
+592,ASUS,Intel,Core i9,11th,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,139990
+593,Lenovo,Intel,Core i9,10th,16 GB,1024 GB,0 GB,Windows,32-bit,8 GB,No,No,265998
+594,ASUS,Intel,Core i9,11th,16 GB,3072 GB,0 GB,Windows,32-bit,6 GB,No,No,441990
+595,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,4 GB,No,No,86990
+596,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,6 GB,No,No,109990
+597,MSI,Intel,Core i5,10th,8 GB,0 GB,512 GB,DOS,32-bit,4 GB,No,No,109590
+598,ASUS,Intel,Core i7,10th,16 GB,0 GB,512 GB,DOS,32-bit,6 GB,No,No,146490
+599,APPLE,M1,M1,10th,8 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,85990
+600,APPLE,M1,M1,10th,8 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,112990
+601,APPLE,M1,M1,10th,16 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,104990
+602,APPLE,M1,M1,10th,8 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,112990
+603,APPLE,M1,M1,10th,16 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,132990
+604,APPLE,M1,M1,10th,16 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,104990
+605,APPLE,M1,M1,10th,8 GB,256 GB,0 GB,Mac,64-bit,0 GB,No,No,85990
+606,APPLE,M1,M1,10th,16 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,149990
+607,APPLE,M1,M1,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,125990
+608,APPLE,M1,M1,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,103990
+609,APPLE,M1,M1,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,101990
+610,APPLE,M1,M1,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,104990
+611,APPLE,M1,M1,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,131990
+612,APPLE,M1,M1,10th,16 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,128990
+613,APPLE,M1,M1,10th,16 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,184990
+614,APPLE,M1,M1,10th,16 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,225990
+615,APPLE,M1,M1,10th,4 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,124990
+616,APPLE,M1,M1,10th,8 GB,512 GB,0 GB,Mac,64-bit,0 GB,No,No,104990
+617,APPLE,M1,M1,10th,8 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,149990
+618,APPLE,M1,M1,10th,16 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,169990
+619,APPLE,M1,M1,10th,16 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,225990
+620,APPLE,M1,M1,10th,16 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,243990
+621,APPLE,M1,M1,10th,32 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,309990
+622,APPLE,M1,M1,10th,16 GB,1024 GB,0 GB,Mac,64-bit,0 GB,No,No,225990
+623,ASUS,Intel,Pentium Quad,Not Available,4 GB,0 GB,512 GB,Windows,64-bit,0 GB,No,No,45990
+624,ASUS,Intel,Pentium Quad,Not Available,4 GB,128 GB,0 GB,Windows,32-bit,0 GB,Yes,No,58100
+625,ASUS,Intel,Pentium Quad,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,Yes,No,62990
+626,HP,Intel,Pentium Quad,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,32990
+627,ASUS,Intel,Pentium Quad,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,33990
+628,acer,Intel,Pentium Quad,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,30990
+629,DELL,Intel,Pentium Quad,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,36000
+630,ASUS,Intel,Pentium Quad,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,32990
+631,DELL,Intel,Pentium Quad,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,35990
+632,ASUS,Intel,Pentium Quad,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,27990
+633,ASUS,Intel,Pentium Quad,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,25990
+634,ASUS,Intel,Pentium Quad,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,25990
+635,ASUS,Intel,Pentium Quad,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,30780
+636,HP,AMD,Ryzen 3,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,37990
+637,ASUS,AMD,Ryzen 3,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,35990
+638,DELL,AMD,Ryzen 3,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,39490
+639,DELL,AMD,Ryzen 3,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,36990
+640,DELL,AMD,Ryzen 3,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,39990
+641,ASUS,AMD,Ryzen 3,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,33690
+642,DELL,AMD,Ryzen 3,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,40590
+643,ASUS,AMD,Ryzen 3,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,37990
+644,ASUS,AMD,Ryzen 3,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,34500
+645,acer,AMD,Ryzen 3,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,36990
+646,HP,AMD,Ryzen 3,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,43490
+647,HP,AMD,Ryzen 3,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41490
+648,acer,AMD,Ryzen 3,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,34990
+649,HP,AMD,Ryzen 3,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44490
+650,DELL,AMD,Ryzen 3,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,40590
+651,DELL,AMD,Ryzen 3,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,42090
+652,DELL,AMD,Ryzen 3,Not Available,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,35990
+653,HP,AMD,Ryzen 3,Not Available,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,39490
+654,DELL,AMD,Ryzen 3,Not Available,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,37390
+655,DELL,AMD,Ryzen 3,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,52632
+656,DELL,AMD,Ryzen 3,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,39990
+657,DELL,AMD,Ryzen 3,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,43990
+658,HP,AMD,Ryzen 3,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,32917
+659,Lenovo,AMD,Ryzen 3,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,34990
+660,DELL,AMD,Ryzen 3,Not Available,8 GB,0 GB,1024 GB,Windows,64-bit,0 GB,No,No,39990
+661,HP,AMD,Ryzen 3,Not Available,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,41999
+662,DELL,AMD,Ryzen 5,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41990
+663,DELL,AMD,Ryzen 5,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,44490
+664,DELL,AMD,Ryzen 5,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,41990
+665,DELL,AMD,Ryzen 5,Not Available,8 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,Yes,44490
+666,MSI,AMD,Ryzen 5,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,49990
+667,DELL,AMD,Ryzen 5,Not Available,4 GB,256 GB,0 GB,Windows,64-bit,0 GB,No,No,44390
+668,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,57990
+669,Lenovo,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,56990
+670,Lenovo,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,48990
+671,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,49970
+672,MSI,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,47990
+673,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,48990
+674,acer,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,53990
+675,Lenovo,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,52990
+676,acer,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,43990
+677,Lenovo,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,59490
+678,MSI,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,64990
+679,DELL,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,47490
+680,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,59990
+681,Lenovo,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,69990
+682,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,58990
+683,DELL,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59490
+684,HP,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,67500
+685,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,48990
+686,ASUS,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,62450
+687,ASUS,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,58990
+688,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,57999
+689,ASUS,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,56990
+690,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,72990
+691,HP,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,65990
+692,HP,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,98020
+693,HP,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,63990
+694,ASUS,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,Yes,49890
+695,DELL,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,49990
+696,DELL,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,59490
+697,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,73999
+698,DELL,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,60990
+699,DELL,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,6 GB,No,No,76190
+700,Lenovo,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,74798
+701,ASUS,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,58990
+702,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,No,68100
+703,Lenovo,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,77990
+704,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,55090
+705,ASUS,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,91990
+706,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,84208
+707,acer,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,44990
+708,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,53490
+709,Lenovo,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,76498
+710,DELL,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,98920
+711,MSI,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,54990
+712,acer,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,49990
+713,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,52380
+714,acer,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,49990
+715,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,52500
+716,ASUS,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,49990
+717,acer,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,75999
+718,ASUS,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,80990
+719,Lenovo,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,0 GB,No,No,59900
+720,HP,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,54590
+721,DELL,AMD,Ryzen 5,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,75500
+722,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,51890
+723,ASUS,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,78000
+724,HP,AMD,Ryzen 5,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,59999
+725,HP,AMD,Ryzen 5,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,64990
+726,DELL,AMD,Ryzen 5,Not Available,4 GB,1024 GB,0 GB,Windows,32-bit,0 GB,No,No,57900
+727,Lenovo,AMD,Ryzen 5,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,81978
+728,HP,AMD,Ryzen 5,Not Available,4 GB,0 GB,1024 GB,Windows,64-bit,4 GB,No,No,59990
+729,DELL,AMD,Ryzen 5,Not Available,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,49490
+730,ASUS,AMD,Ryzen 5,Not Available,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,54990
+731,Lenovo,AMD,Ryzen 5,Not Available,8 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,68500
+732,ASUS,AMD,Ryzen 5,Not Available,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,54990
+733,ASUS,AMD,Ryzen 5,Not Available,8 GB,256 GB,1024 GB,Windows,32-bit,0 GB,No,Yes,54990
+734,Lenovo,AMD,Ryzen 5,Not Available,8 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,63990
+735,HP,AMD,Ryzen 5,Not Available,4 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,80000
+736,DELL,AMD,Ryzen 5,Not Available,4 GB,256 GB,1024 GB,Windows,32-bit,0 GB,No,No,51990
+737,ASUS,AMD,Ryzen 5,Not Available,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,62990
+738,HP,AMD,Ryzen 5,Not Available,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,No,52990
+739,ASUS,AMD,Ryzen 5,Not Available,4 GB,256 GB,1024 GB,Windows,64-bit,0 GB,No,Yes,75100
+740,ASUS,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,No,76990
+741,ASUS,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,79990
+742,ASUS,AMD,Ryzen 7,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,71990
+743,ASUS,AMD,Ryzen 7,Not Available,8 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,71990
+744,Lenovo,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,99990
+745,ASUS,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,79990
+746,DELL,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,93990
+747,ASUS,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,82990
+748,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,106990
+749,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,92990
+750,Lenovo,Intel,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,Yes,81490
+751,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,56990
+752,MSI,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,64990
+753,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,60990
+754,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,84988
+755,HP,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,90990
+756,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,63990
+757,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,63990
+758,HP,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,57999
+759,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,No,72400
+760,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,No,78990
+761,acer,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,59990
+762,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,No,111990
+763,HP,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,0 GB,Yes,No,109000
+764,DELL,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,6 GB,No,No,89990
+765,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,78988
+766,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,73138
+767,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,No,106990
+768,ASUS,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,32-bit,4 GB,No,No,79990
+769,DELL,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,89570
+770,HP,AMD,Ryzen 7,Not Available,4 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,Yes,68500
+771,Lenovo,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,0 GB,No,No,73400
+772,HP,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,2 GB,No,Yes,79990
+773,HP,AMD,Ryzen 7,Not Available,16 GB,512 GB,0 GB,Windows,64-bit,4 GB,No,Yes,84990
+774,MSI,AMD,Ryzen 7,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,No,99990
+775,ASUS,AMD,Ryzen 7,Not Available,8 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,72990
+776,HP,AMD,Ryzen 7,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,Yes,92990
+777,HP,AMD,Ryzen 7,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,84190
+778,ASUS,AMD,Ryzen 7,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,112990
+779,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,32-bit,4 GB,No,No,114990
+780,acer,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,99990
+781,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,32-bit,4 GB,No,No,95990
+782,HP,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,No,159990
+783,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,76990
+784,Lenovo,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,Yes,130990
+785,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,99990
+786,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,112990
+787,Lenovo,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,77988
+788,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,76000
+789,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,No,99990
+790,ASUS,AMD,Ryzen 7,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,111000
+791,ASUS,AMD,Ryzen 7,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,Yes,84970
+792,HP,AMD,Ryzen 7,Not Available,16 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,Yes,75990
+793,acer,AMD,Ryzen 7,Not Available,16 GB,256 GB,1024 GB,Windows,64-bit,6 GB,No,No,89990
+794,acer,AMD,Ryzen 7,Not Available,16 GB,256 GB,1024 GB,Windows,64-bit,4 GB,No,No,81990
+795,Lenovo,AMD,Ryzen 7,Not Available,4 GB,512 GB,1024 GB,Windows,32-bit,0 GB,No,No,80490
+796,ASUS,AMD,Ryzen 9,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,135990
+797,ASUS,AMD,Ryzen 9,Not Available,16 GB,1024 GB,0 GB,Windows,32-bit,0 GB,No,No,154990
+798,ASUS,AMD,Ryzen 9,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,Yes,199990
+799,ASUS,AMD,Ryzen 9,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,114990
+800,ASUS,AMD,Ryzen 9,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,Yes,129990
+801,ASUS,AMD,Ryzen 9,Not Available,16 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,Yes,114990
+802,MSI,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,146990
+803,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,104990
+804,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,No,114990
+805,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,Yes,124990
+806,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,Yes,No,134990
+807,HP,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,8 GB,No,Yes,141990
+808,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,129990
+809,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,Yes,142990
+810,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,121990
+811,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,Yes,124990
+812,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,6 GB,No,No,141990
+813,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,162990
+814,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,130500
+815,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,116990
+816,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,32-bit,6 GB,No,No,138990
+817,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,Yes,Yes,234990
+818,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,135990
+819,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,0 GB,No,No,144990
+820,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,149990
+821,ASUS,AMD,Ryzen 9,Not Available,4 GB,1024 GB,0 GB,Windows,64-bit,4 GB,No,No,142990
+822,Lenovo,AMD,Ryzen 5,10th,8 GB,512 GB,0 GB,DOS,64-bit,0 GB,No,No,57490
